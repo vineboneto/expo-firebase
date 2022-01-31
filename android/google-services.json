@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821834076383",
+    "project_id": "myshopping-f430c",
+    "storage_bucket": "myshopping-f430c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821834076383:android:931c4409f5b4f7657ed96a",
+        "android_client_info": {
+          "package_name": "com.myshoppingboneto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821834076383-acb1rsd24c7mabcc5sk7t2mq83lb9qsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myshoppingboneto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "821834076383-m562fnts2e0ntm1v76036r6fpehhe86n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzd095-Y_icv4GHCvySFXAjk5njJ1qBRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821834076383-m562fnts2e0ntm1v76036r6fpehhe86n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
